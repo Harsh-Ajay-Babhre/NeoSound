@@ -2,7 +2,8 @@
 Welcome to NeoSound! 🎶🚀 Your one-stop experimental platform for discovering, previewing, and downloading music, movies and youtube videos effortlessly. Whether you're a fan of songs 🎵, movies 🎬, or searching for lyrical music videos 🎤, NeoSound is here to make your media journey seamless and fun! 
 Whether you’re searching for trending songs, timeless movies, or lyrics videos to sing along to, NeoSound is built to deliver exactly what you need. Our platform combines intuitive design with powerful functionality, making it simple and enjoyable to explore and save your favorite content.
 
-Key Features
+Key Features -
+
 1 - Intelligent Search Engine
 NeoSound leverages smart algorithms to fetch tailored results based on your queries. From classic hits to the latest lyrical videos, our search is designed to understand your preferences and deliver the most relevant options.
 
