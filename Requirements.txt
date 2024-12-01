@@ -1,3 +1,9 @@
 streamlit==1.25.0          # For building the web application
 yt-dlp==2023.10.22         # For downloading videos from YouTube
 Pillow==10.0.0             # For handling image-related operations (optional, used by Streamlit)
+
+####
+pip install -r requirements.txt
+####
+
+Use this command for downloading all the libraries used in the project. 
